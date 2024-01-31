@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm minsu!!! 
 #### Welcome to my github.
-![Welcome to my github.](https://ibb.co/0XPDBbv)
+
+[![]https://ibb.co/0XPDBbv]
+
 
 수정중! 
 
-Skills: C, Python, JAVA
 
 - 🔭 I’m currently working on this page. 
 
