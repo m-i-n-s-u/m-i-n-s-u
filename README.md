@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm minsu!!! 
 #### Welcome to my github.
 
-[![]https://ibb.co/0XPDBbv]
+![제목을-입력해주세요_-001](https://github.com/m-i-n-s-u/m-i-n-s-u/assets/127494446/32816a76-d40f-46c4-b270-b899fd7942e8)
 
 
 수정중! 
