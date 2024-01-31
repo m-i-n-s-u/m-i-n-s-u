@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm minsu!!! 
+#### Welcome to my github.
+![Welcome to my github.](https://ibb.co/0XPDBbv)
 
-<!--
-**m-i-n-s-u/m-i-n-s-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+수정중! 
 
-Here are some ideas to get you started:
+Skills: C, Python, JAVA
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
