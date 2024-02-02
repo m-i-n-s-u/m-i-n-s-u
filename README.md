@@ -1,10 +1,9 @@
 ![제목을-입력해주세요_-001](https://github.com/m-i-n-s-u/m-i-n-s-u/assets/127494446/32816a76-d40f-46c4-b270-b899fd7942e8)
-![header](https://capsule-render.vercel.app/api?&color=23A8AFBA&type=wave&height=180&section=footer)
 
 <br>
 
 <p align="center">
-![GDSC UOS Github Badge](https://gdsc-uos-github-badge.vercel.app/api/m-i-n-s-u)
+
  <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm-i-n-s-u&count_bg=%2388D6DB&title_bg=%23A8AFBA&icon=github.svg&icon_color=%23575757&title=&edge_flat=false"/></a>
 </p>
