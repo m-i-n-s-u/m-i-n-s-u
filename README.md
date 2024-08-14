@@ -19,6 +19,10 @@
 <img src="https://img.shields.io/badge/C++-FFEC6E?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-5277C3?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-00AF9C?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-00AF9C?style=flat-square&logo=JavascriptK&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-00AF9C?style=flat-square&logo=HTML&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-00AF9C?style=flat-square&logo=CSS&logoColor=white"/></a>
+
 
 </p>
  <br> <br>
